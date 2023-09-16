@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav J</h1>
-<h3 align="center">Seeking a beginner role to enhance and explore my technical knowledge. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level Web Develper with a reputed firm driven by technology.</h3>
+<h3 align="center">Seeking a Full stack developer role to enhance and explore my technical knowledge. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level Web Develper with a reputed firm driven by technology.</h3>
 
 - 🌱 I’m currently learning **NextJS, Rust**
 
